@@ -2,7 +2,7 @@
 A text adventure written in an earlier version of Adventuron.
 
 ## Play Online
-Playable at http://xyxxy.app
+Playable at https://xyzzy.app
 
 ## Adventuron Editor
 Load the code into the adventuron editor here: https://adventuron.io/classroom/ (includes full training, which won't take you long)
