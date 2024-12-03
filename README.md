@@ -11,7 +11,7 @@ You will need to modify it to get it in-line with the newest and best version of
 ## In Three Parts with pseudo-pixel graphics
 
 * Part one is fully playable.
-* Part two is a bit convoluted.
-* Part three is unfinished.
+* Part two is a bit convoluted, though fully playable.
+* Part three is unfinished, and was where I realised bigger doesn't necessarily mean better. It ran away from me.
 
 Have fun!
